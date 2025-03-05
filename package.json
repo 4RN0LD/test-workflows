@@ -4,7 +4,6 @@
     "description": "A simple Node.js app",
     "main": "src/index.js",
     "scripts": {
-      "test": "mocha test/**/*.test.js",
       "build": "echo 'Building the app...'"
     },
     "dependencies": {
