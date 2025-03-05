@@ -1,0 +1,17 @@
+{
+    "name": "my-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js app",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "mocha test/**/*.test.js",
+      "build": "echo 'Building the app...'"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "devDependencies": {
+      "mocha": "^9.0.0",
+      "chai": "^4.3.4"
+    }
+  }
